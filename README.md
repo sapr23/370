@@ -24,7 +24,7 @@
    give the correct output.
  
  - Black box testing will be used in system tesing process. We will test if the app work properly, what are the requirement the app can
-   fulfill etc.*
+   fulfill etc.
 
 ### 1.3 Adequacy Criterion
 
